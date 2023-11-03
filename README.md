@@ -1,6 +1,6 @@
 # Brian C. Prescott's professional website.
 
-This website contains the following information
+This website contains the following information:
 
     - Research papers and links to replication packages.
 
