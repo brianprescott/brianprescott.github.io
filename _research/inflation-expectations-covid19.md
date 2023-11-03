@@ -4,7 +4,7 @@ collection: research
 permalink: /research/inflation-expectations-covid19
 ---
 
-__Authors__: Brent H. Meyer, Brian Prescott, and Xuguang Simon Sheng</span>
+__Authors__: Brent H. Meyer, Brian Prescott, and Xuguang Simon Sheng
 
 _International Journal of Forecasting_, 2021.
 
