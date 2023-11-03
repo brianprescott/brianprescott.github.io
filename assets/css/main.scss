@@ -33,6 +33,14 @@
 @import "page";
 @import "archive";
 @import "sidebar";
+@media (min-width: 80em) {
+    .sidebar__right {
+        width: 300px;
+        margin-right: -300px;
+        float: right;
+        position: sticky;
+    }
+  }
 
 @import "vendor/font-awesome/fontawesome";
 @import "vendor/font-awesome/solid";
