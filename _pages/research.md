@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 {% include base_path %}
+
 ## Academic publications
 1. Meyer, Brent H., Brian C. Prescott, and Xuguang Simon Sheng. 2023. [**The Impact of Supply Chain Disruptions on Business Expectations during the Pandemic**](https://doi.org/10.1016/j.eneco.2023.106951). _Energy Economics_, 126, 2023, 106951. [Abstract](https://www.brianprescott.org/supply-demand-pandemic-expectations). 
 3. Prescott, Brian C. and Oz Shy. 2023. [**Cash Payments and the Penny Policy Debate**](https://doi.org/10.1016/j.jebo.2023.01.024). *Journal of Economic Behavior and Organization*, 208, 80--94. [Abstract](https://www.brianprescott.org/penny-policy.html). [Code](https://github.com/brianprescott/change-burden).
