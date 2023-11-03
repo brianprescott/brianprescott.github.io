@@ -4,7 +4,7 @@ collection: research
 permalink: /research/penny-policy
 ---
 
-_Authors_: Brian Prescott and Oz Shy
+__Authors__: Brian Prescott and Oz Shy
 
 **_Journal of Economic Behavior and Organization_**, 2023.
 

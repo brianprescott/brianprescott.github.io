@@ -4,9 +4,9 @@ collection: research
 permalink: /research/supply-demand-pandemic-expectations
 ---
 
-_Authors_: Brent H. Meyer, Brian C. Prescott, and Xuguang Simon Sheng 
+__Authors__: Brent H. Meyer, Brian C. Prescott, and Xuguang Simon Sheng 
 
-__Energy Economics__, October 2023.
+**_Energy Economics_**, October 2023.
 
 [Published version](https://doi.org/10.1016/j.eneco.2023.106951), [Latest working draft](https://www.brianprescott.org/files/bie-supply-demand-jul31.pdf).
 
