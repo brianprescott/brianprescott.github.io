@@ -6,7 +6,7 @@ permalink: /research/p2p-payments
 
 __Authors__: Claire Greene, Brian Prescott, and Oz Shy</span>
 
-**_Journal of Behavioral and Experimental Economics_**, 2022.
+_Journal of Behavioral and Experimental Economics_, 2022.
 
 [Link to published article](https://doi.org/10.1016/j.socec.2021.101788).
 
