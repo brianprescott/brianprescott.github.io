@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Brian C. Prescott"
+title: 
 excerpt:
 author_profile: true
 redirect_from: 
