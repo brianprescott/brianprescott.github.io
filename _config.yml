@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : 
+  name             : "Brian C. Prescott"
   avatar           : "wustl-profile-picture.png"
-  bio              : "Ph.D. Student in Economics Washington University in St. Louis"
-  location         : 
-  employer         : # ""
+  bio              : "Ph.D. Student in Economics"
+  location         : "St. Louis, MO"
+  employer         : "Washington University in St. Louis"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=GDni31QAAAAJ"
   email            :  "b.prescott@wustl.edu"
