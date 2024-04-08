@@ -54,6 +54,7 @@ $light-gray                 : mix(#fff, $gray, 50%);
 $lighter-gray               : mix(#fff, $gray, 90%);
 $dark-solarized-light       : #eee8d5;
 $solarized-light            : #fdf6e3;
+$academic-blue              : #012169;
 
 /* ORIGINAL SETTING
 $body-color                 : #fff;
@@ -76,8 +77,8 @@ $primary-color              : #7a8288;
 $success-color              : #62c462;
 $warning-color              : #f89406;
 $danger-color               : #ee5f5b;
-$info-color		             : #012169;
-/* This controls URL colors */
+$info-color		             : $academic-blue;
+/* This controls URL colors. Below is original info-color */
 /* $info-color                 : #52adc8; */ 
 
 /* brands */
