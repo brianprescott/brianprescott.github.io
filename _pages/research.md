@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 ## Academic publications
-1. [**The Impact of Supply Chain Disruptions on Business Expectations during the Pandemic**](https://doi.org/10.1016/j.eneco.2023.106951)
+1. [**The Impact of Supply Chain Disruptions on Business Expectations during the Pandemic**](https://doi.org/10.1016/j.eneco.2023.106951).
 (with Brent H. Meyer and Xuguang Simon Sheng)
 _Energy Economics_, 126 2023: 106951. 
 [Abstract](https://www.brianprescott.org/research/supply-demand-pandemic-expectations.html).
