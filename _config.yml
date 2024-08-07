@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Brian Prescott"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Brian Prescott"
 description              : &description "Professional website for Brian C. Prescott"
