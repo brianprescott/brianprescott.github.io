@@ -12,4 +12,4 @@ I am a Ph.D. student in the Department of Economics at Washington University in 
 My primary research interests lie in econometrics and causal inference. I also have secondary interests in applied microeconomics.
 
 ## Contact
-*Email*: [b.prescott@wustl.edu](mailto::b.prescott@wustl.edu)
+Email: [b.prescott@wustl.edu](mailto::b.prescott@wustl.edu)
