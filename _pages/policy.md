@@ -1,11 +1,9 @@
 ---
-layout: archive
 title: "Policy reports"
 permalink: /policy/
-author_profile: true
 ---
 
-{% include base_path %}
+## Atlanta Fed
 
 1. [**Firms' Inflation Expectations: Not Unanchored, but Perhaps Unsettled?**](https://www.atlantafed.org/blogs/macroblog/2022/08/02/firms-inflation-expectations--not-unanchored-but-perhaps-unsettled) (with Antar Diallo, Kevin Foster, and Brent Meyer). *Policy Hub: Macroblog*. August 02, 2022.
 1. [**Inflation Expectations Reflect Concerns over Supply Disruptions, Crimped Capacity**](https://www.atlantafed.org/blogs/macroblog/2021/03/22/inflation-expectations-reflect-concerns-over-supply-disruptions-crimped-capacity.aspx) (with Kevin Foster and Brent Meyer). *Policy Hub: Macroblog*. March 22, 2021. 
