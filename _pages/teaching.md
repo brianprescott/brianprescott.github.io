@@ -8,5 +8,5 @@ author_profile: true
 {% include base_path %}
 
 ### Washington University in St. Louis
-- Econ 4011: Intermediate Microeconomic Theory (Undergraduate). TA. SP 2024.
-- Econ 5011: Macroeconomics (Masters). TA. FL 2023.
+- TA - Econ 4011: *Intermediate Microeconomic Theory* (Undergraduate), SP 2024.
+- TA - Econ 5011: *Macroeconomics* (Masters), FL 2023.
