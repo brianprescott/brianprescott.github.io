@@ -3,7 +3,7 @@ title: "Research"
 permalink: /research/
 ---
 
-### Academic publications
+## Academic publications
 
 [**The Impact of Supply Chain Disruptions on Business Expectations during the Pandemic**](https://doi.org/10.1016/j.eneco.2023.106951)
 (with Brent H. Meyer and Xuguang Simon Sheng). \
