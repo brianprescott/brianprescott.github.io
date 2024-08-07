@@ -29,8 +29,8 @@ Using a representative sample of the U.S. adult population, we analyze which pay
 [**The Impact of the COVID-19 Pandemic on Business Expectations**](https://doi.org/10.1016/j.ijforecast.2021.02.009)
 (with Brent H. Meyer and Xuguang Simon Sheng). \
 _International Journal of Forecasting_, 38(2), 2022: 529--544. \
-<small><a href="#/" onclick="visib('CovidBIEv2')">[Abstract]</a>.
-<div id="CovidBIEv2" style="display: none; text-align: justify; line-height: 1.1; margin: -1em 0em 1em 0em" ><small>
+<small><a href="#/" onclick="visib('CovidBIE')">[Abstract]</a>.
+<div id="CovidBIE" style="display: none; text-align: justify; line-height: 1.1; margin: -1em 0em 1em 0em" ><small>
 We document and evaluate how businesses are reacting to the COVID-19 crisis through August 2020. First, on net, firms see the shock (thus far) largely as a demand rather than supply shock. A greater share of firms report significant or severe disruptions to sales activity than to supply chains. We compare these measures of disruption to their expected changes in selling prices and find that, even for firms that report supply chain disruptions, they expect to lower near-term selling prices on average. We also show that firms are engaging in wage cuts and expect to trim wages further before the end of 2020. These cuts stem from firms that have been disproportionally negatively impacted by the pandemic. Second, firms (like professional forecasters) have responded to the COVID-19 pandemic by lowering their one-year-ahead inflation expectations. These responses stand in stark contrast to that of household inflation expectations (as measured by the University of Michigan or the New York Fed). Indeed, firms’ one-year-ahead inflation expectations fell precipitously (to a series low) following the onset of the pandemic, while household measures of inflation expectations jumped markedly. Third, despite the dramatic decline in firms’ near-term inflation expectations, their longer-run inflation expectations have remained relatively stable.</small></div>
 
 
