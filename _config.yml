@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Brian C. Prescott"
+title                    : "Brian Prescott"
 title_separator          : "-"
-name                     : &name "Brian C. Prescott"
+name                     : &name "Brian Prescott"
 description              : &description "Professional website for Brian C. Prescott"
 url                      : https://www.brianprescott.org # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Brian C. Prescott"
+  name             : "Brian Prescott"
   avatar           : "wustl-profile-picture.png"
   bio              : "Ph.D. Student in Economics"
   location         : 
   employer         : "Washington University in St. Louis"
-  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=GDni31QAAAAJ"
   email            :  "b.prescott@wustl.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  
   uri              :
   bitbucket        :
   codepen          :
