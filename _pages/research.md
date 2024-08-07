@@ -15,14 +15,14 @@ Utilizing the Federal Reserve Bank of Atlanta’s Business Inflation Expectation
 [**Cash Payments and the Penny Policy Debate**](https://doi.org/10.1016/j.jebo.2023.01.024)
 (with Oz Shy). \
 *Journal of Economic Behavior and Organization*, 208, 2023: 80--94. \
-<small><a href="#/" onclick="visib('PennyPolicy')">[Abstract]</a> [[Code](https://github.com/brianprescott/change-burden)].
+<small><a href="#/" onclick="visib('PennyPolicy')">[Abstract]</a>. [[Code](https://github.com/brianprescott/change-burden)].
 <div id="PennyPolicy" style="display: none; text-align: justify; line-height: 1.1; margin: -1em 0em 1em 0em" ><small>
 This article constructs a model of optimal consumer-merchant exchange of cash payments. We use consumer payment choice diary data to quantify the burden of exchanging currency notes and coins. The model is then applied to analyze a policy debate whether to eliminate the penny coin from circulation. We find that penny elimination would reduce the burden of exchanging cash but will not have any significant inflationary consequences caused by price rounding. Surprisingly, a removal of both the penny and nickel coins from circulation would slightly increase (not decrease) the burden relative to penny elimination only.</small></div>
 
 [**How People Pay Each Other: Data, Theory, and Calibrations**](https://doi.org/10.1016/j.socec.2021.101788)
 (with Claire Greene and Oz Shy). \
 _Journal of Behavioral and Experimental Economics_, 96, 2022: 101788. \
-<small><a href="#/" onclick="visib('p2p')">[Abstract]</a> [[Code](https://github.com/ozshy/p2p)].
+<small><a href="#/" onclick="visib('p2p')">[Abstract]</a>. [[Code](https://github.com/ozshy/p2p)].
 <div id="p2p" style="display: none; text-align: justify; line-height: 1.1; margin: -1em 0em 1em 0em" ><small>
 Using a representative sample of the U.S. adult population, we analyze which payment methods consumers use to pay other consumers (p2p) and how these choices depend on transaction and demographic characteristics. We construct a random matching model of consumers with diverse preferences over the use of payment methods for p2p payments. The model is calibrated to the share of p2p payments made with cash, checks, and electronic technologies from 2015 to 2019. We find about two-thirds of consumers have a first p2p payment preference for cash. One-third rank checks first. Approximately 94 percent of consumers rank electronic technologies second.</small></div>
 
