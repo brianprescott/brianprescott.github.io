@@ -7,7 +7,7 @@ redirect_from:
   - /home/
   - /home.html
 ---
-![](/images/wustl-profile-picture.png)
+<img src="{{ site.url }}{{ site.baseurl }}/images/wustl-profile-picture.png" alt="">
 
 I am a Ph.D. student in the Department of Economics at Washington University in St. Louis. Prior to my graduate studies, I worked as an Economic Research Analyst at the Federal Reserve Bank of Atlanta.
 
