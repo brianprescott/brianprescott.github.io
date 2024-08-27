@@ -56,10 +56,12 @@ $dark-solarized-light       : #eee8d5;
 $solarized-light            : #fdf6e3;
 $okabe-ito-blue             : #0072B2;
 $nord-navy                  : #2e3440;
-$lighter-nord-navy          : mix(#fff, $nord-navy, 50%);
+$lighter-nord-navy          : mix(#fff, $nord-navy, 90%);
 $nord-blue                  : #5e81ac;
+$nord-light-blue            : #81a1c1;
 $nord-white                 : #eceff4;
 $oxford-blue                : #002147;
+$lighter-oxford-blue        : mix(#fff, $oxford-blue, 90%);
 
 /* ORIGINAL SETTING
 $body-color                 : #fff;
@@ -88,7 +90,7 @@ $footer-color-border        : $nord-white;
 
 /* Original primary color: #7a8288 */
 
-$primary-color              : $oxford-blue;
+$primary-color              : $nord-navy;
 $success-color              : #62c462;
 $warning-color              : #f89406;
 $danger-color               : #ee5f5b;
