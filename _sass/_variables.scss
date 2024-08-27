@@ -55,6 +55,8 @@ $lighter-gray               : mix(#fff, $gray, 90%);
 $dark-solarized-light       : #eee8d5;
 $solarized-light            : #fdf6e3;
 $okabe-ito-blue             : #0072B2;
+$nord-navy                  : #4c566a;
+$lighter-nord-navy          : mix(#fff, $nord-navy, 90%);
 
 /* ORIGINAL SETTING
 $body-color                 : #fff;
@@ -71,7 +73,6 @@ $background-color           : #fff;
 $text-color                 : $dark-gray;
 $border-color               : $lighter-gray;
 $code-background-color-dark : $light-gray;
-
 $code-background-color      : #fafafa;
 
 /* Original footer colors
@@ -79,10 +80,12 @@ $footer-color               : $lighter-gray;
 $footer-color-border        : $light-gray;
 */
 
-$footer-color               : $lighter-gray;
-$footer-color-border        : $lighter-gray;
+$footer-color               : $lighter-nord-navy;
+$footer-color-border        : $lighter-nord-navy;
 
-$primary-color              : #7a8288;
+/* Original primary color: #7a8288 */
+
+$primary-color              : $nord-navy;
 $success-color              : #62c462;
 $warning-color              : #f89406;
 $danger-color               : #ee5f5b;
