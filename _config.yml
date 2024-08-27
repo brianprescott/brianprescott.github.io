@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Brian Prescott"
 title_separator          : "-"
 name                     : &name "Brian Prescott"
-description              : &description "Professional website for Brian C. Prescott"
+description              : &description "Econometrics PhD Student"
 url                      : https://www.brianprescott.org # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "brianprescott/brianprescott.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : 
   avatar           : "wustl-profile-picture.png"
-  bio              : "Ph.D. Student in Economics\nWUSTL"
+  bio              : "Econometrics Ph.D. Student, WashU"
   location         : 
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=GDni31QAAAAJ"
-  email            :  
+  email            :  "b.prescott@wustl.edu"
   researchgate     :  
   uri              :
   bitbucket        :
