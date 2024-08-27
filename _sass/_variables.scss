@@ -57,6 +57,7 @@ $solarized-light            : #fdf6e3;
 $okabe-ito-blue             : #0072B2;
 $nord-navy                  : #2e3440;
 $lighter-nord-navy          : mix(#fff, $nord-navy, 50%);
+$nord-blue                  : #5e81ac;
 
 /* ORIGINAL SETTING
 $body-color                 : #fff;
@@ -89,9 +90,11 @@ $primary-color              : $nord-navy;
 $success-color              : #62c462;
 $warning-color              : #f89406;
 $danger-color               : #ee5f5b;
-$info-color		             : $okabe-ito-blue;
+$info-color		             : $nord-blue;
 /* This controls URL colors. Below is original info-color */
-/* $info-color                 : #52adc8; */ 
+/* $info-color                 : #52adc8; 
+   $info-color		             : $okabe-ito-blue;
+*/ 
 
 /* brands */
 $behance-color              : #1769FF;
