@@ -7,7 +7,7 @@ redirect_from:
   - /home/
   - /home.html
 ---
-<img src="{{ site.url }}{{ site.baseurl }}/images/wustl-profile-picture.png" alt="" height= "75" width="235" aligh = "left" style="float:left;"/>
+<img align="left" src="{{ site.url }}{{ site.baseurl }}/images/wustl-profile-picture.png" alt="" height= "75" width="235" style="float:left;"/>
 
 <p style = "float:right;" padding = 1em>
 I am a Ph.D. student in the Department of Economics at Washington University in St. Louis. Prior to my graduate studies, I worked as an Economic Research Analyst at the Federal Reserve Bank of Atlanta.
