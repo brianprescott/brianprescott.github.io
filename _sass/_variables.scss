@@ -75,12 +75,12 @@ $code-background-color      : #fafafa;
 */
 
 /*This block contains things I changed.*/
-$body-color                 : #eceff4;
-$background-color           : #eceff4;
-$text-color                 : #2e3440;
-$border-color               : #e5e9f0;
-$code-background-color-dark : #eceff4;
-$code-background-color      : #eceff4;
+$body-color                 : #fff;
+$background-color           : #fff;
+$text-color                 : $dark-gray;
+$border-color               : $lighter-gray;
+$code-background-color-dark : $light-gray;
+$code-background-color      : #fafafa;
 
 /* Original footer colors
 $footer-color               : $lighter-gray;
@@ -95,12 +95,12 @@ $footer-color-border        : $border-color;
 
 /* Original primary color: #7a8288 */
 
-$primary-color-masthead     : #2e3440;
-$primary-color              : #2e3440;
+$primary-color-masthead     : mix(#fff, #000, 10%);
+$primary-color              : #fff;
 $success-color              : #62c462;
 $warning-color              : #f89406;
 $danger-color               : #ee5f5b;
-$info-color		             : $nord-blue;
+$info-color		             : $viridian;
 /* This controls URL colors. Below is original info-color */
 /* $info-color                 : #52adc8; 
    $info-color		             : $okabe-ito-blue;
