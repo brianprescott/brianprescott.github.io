@@ -75,12 +75,12 @@ $code-background-color      : #fafafa;
 */
 
 /*This block contains things I changed.*/
-$body-color                 : #fff;
-$background-color           : #fff;
-$text-color                 : $dark-gray;
-$border-color               : $lighter-gray;
-$code-background-color-dark : $light-gray;
-$code-background-color      : #fafafa;
+$body-color                 : #2e3440;
+$background-color           : #2e3440;
+$text-color                 : #eceff4;
+$border-color               : #3b4252;
+$code-background-color-dark : #434c5e;
+$code-background-color      : #e5e9f0;
 
 /* Original footer colors
 $footer-color               : $lighter-gray;
@@ -91,11 +91,11 @@ $footer-color-border        : $nord-white;
 */
 
 $footer-color               : $body-color;
-$footer-color-border        : $lighter-gray;
+$footer-color-border        : $border-color;
 
 /* Original primary color: #7a8288 */
 
-$primary-color              : $nord-navy;
+$primary-color              : #d8dee9;
 $success-color              : #62c462;
 $warning-color              : #f89406;
 $danger-color               : #ee5f5b;
