@@ -95,8 +95,8 @@ $footer-color-border        : $border-color;
 
 /* Original primary color: #7a8288 */
 
-$primary-color-masthead     : mix(#fff, #000, 10%);
-$primary-color              : #fff;
+$primary-color-masthead     : mix(#fff, #000, 20%);
+$primary-color              : mix(#fff, #000, 20%);
 $success-color              : #62c462;
 $warning-color              : #f89406;
 $danger-color               : #ee5f5b;
@@ -134,9 +134,9 @@ $link-color                 : $info-color;
 $link-color-hover           : mix(#000, $link-color, 25%);
 $link-color-visited         : mix(#fff, $link-color, 25%);
 $masthead-link-color        : $primary-color-masthead;
-$masthead-link-color-hover  : $link-color
+$masthead-link-color-hover  : $link-color;
 
-/*mix(#000, $primary-color-masthead, 25%);*/
+/*mix(#000, $primary-color-masthead, 25%); */
 
 
 /*
