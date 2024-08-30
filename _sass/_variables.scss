@@ -60,11 +60,9 @@ $nord-light-navy            : #4c566a;
 $lighter-nord-navy          : mix(#fff, $nord-navy, 90%);
 $nord-blue                  : #5e81ac;
 $nord-light-blue            : #81a1c1;
+$nord-green                 : #8fbcbb;
 $nord-white                 : #eceff4;
 $ruby-red                   : #9B111E;
-$sapphire-blue              : #0F52BA;
-$darker-sapphire-blue       : mix(#000, $sapphire-blue, 50%);
-$lighter-sapphire-blue      : mix(#fff, $darker-sapphire-blue, 95%);
 
 /* ORIGINAL SETTING
 $body-color                 : #fff;
@@ -100,7 +98,7 @@ $primary-color              : $nord-navy;
 $success-color              : #62c462;
 $warning-color              : #f89406;
 $danger-color               : #ee5f5b;
-$info-color		             : $ruby-red;
+$info-color		             : $nord-green;
 /* This controls URL colors. Below is original info-color */
 /* $info-color                 : #52adc8; 
    $info-color		             : $okabe-ito-blue;
