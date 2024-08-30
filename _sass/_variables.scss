@@ -134,7 +134,9 @@ $link-color                 : $info-color;
 $link-color-hover           : mix(#000, $link-color, 25%);
 $link-color-visited         : mix(#fff, $link-color, 25%);
 $masthead-link-color        : $primary-color-masthead;
-$masthead-link-color-hover  : mix(#000, $primary-color-masthead, 25%);
+$masthead-link-color-hover  : $link-color
+
+/*mix(#000, $primary-color-masthead, 25%);*/
 
 
 /*
