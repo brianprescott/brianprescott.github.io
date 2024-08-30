@@ -62,7 +62,7 @@ $nord-blue                  : #5e81ac;
 $nord-light-blue            : #81a1c1;
 $nord-white                 : #eceff4;
 $oxford-blue                : #002147;
-$lighter-oxford-blue        : mix(#fff, $oxford-blue, 90%);
+$lighter-oxford-blue        : mix(#fff, $oxford-blue, 95%);
 $ruby-red                   : #9B111E;
 $sapphire-blue              : #0F52BA;
 $darker-sapphire-blue       : mix(#000, $sapphire-blue, 50%);
@@ -98,7 +98,7 @@ $footer-color-border        : $nord-white;
 
 /* Original primary color: #7a8288 */
 
-$primary-color              : $darker-sapphire-blue;
+$primary-color              : $oxford-blue;
 $success-color              : #62c462;
 $warning-color              : #f89406;
 $danger-color               : #ee5f5b;
