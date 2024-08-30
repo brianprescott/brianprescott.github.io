@@ -55,13 +55,6 @@ $lighter-gray               : mix(#fff, $gray, 90%);
 $dark-solarized-light       : #eee8d5;
 $solarized-light            : #fdf6e3;
 $okabe-ito-blue             : #0072B2;
-$nord-navy                  : #2e3440;
-$nord-light-navy            : #4c566a;
-$lighter-nord-navy          : mix(#fff, $nord-navy, 90%);
-$nord-blue                  : #5e81ac;
-$nord-green                 : #8fbcbb;
-$nord-purple                : #b48ead;
-$nord-white                 : #eceff4;
 $ruby-red                   : #9B111E;
 $viridian                   : #40826D;
 
@@ -95,7 +88,7 @@ $footer-color-border        : $border-color;
 
 /* Original primary color: #7a8288 */
 
-$primary-color-masthead     : mix(#fff, #000, 20%);
+$primary-color-masthead     : mix(#fff, #000, 30%);
 $primary-color              : $link-color;
 $success-color              : #62c462;
 $warning-color              : #f89406;
