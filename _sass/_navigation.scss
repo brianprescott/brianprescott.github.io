@@ -177,11 +177,12 @@
   min-width: 250px;
   background: $masthead-background-color;
 
+  /* $masthead-link-color */
   a {
     display: block;
     margin: 0 1rem;
     padding: 0.5rem 0;
-    color: $masthead-link-color;
+    color: $oxford-blue;
     text-decoration: none;
 
     &:hover {
@@ -371,7 +372,7 @@
 /*$gray*/
 .toc {
   font-family: $sans-serif-narrow;
-  color: $oxford-blue;
+  color: $gray;
   text-transform: uppercase;
   letter-spacing: 1px;
   background-color: $masthead-background-color;
