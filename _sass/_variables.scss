@@ -57,6 +57,7 @@ $solarized-light            : #fdf6e3;
 $okabe-ito-blue             : #0072B2;
 $ruby-red                   : #9B111E;
 $viridian                   : #40826D;
+$oxford-blue                : #002147;
 
 /* ORIGINAL SETTING
 $body-color                 : #fff;
@@ -68,6 +69,7 @@ $code-background-color      : #fafafa;
 */
 
 /*This block contains things I changed.*/
+$masthead-background-color  : $oxford-blue;
 $body-color                 : #fff;
 $background-color           : #fff;
 $text-color                 : $dark-gray;
@@ -83,13 +85,13 @@ $footer-color               : $nord-white;
 $footer-color-border        : $nord-white;
 */
 
-$footer-color               : $body-color;
-$footer-color-border        : $border-color;
+$footer-color               : $masthead-background-color;
+$footer-color-border        : $masthead-background-color;
 
-/* Original primary color: #7a8288 */
+/* Original primary color: #7a8288; mix(#fff, #000, 20%); */
 
-$primary-color-masthead     : mix(#fff, #000, 20%);
-$primary-color              : $okabe-ito-blue;
+$primary-color-masthead     : #fff;
+$primary-color              : $ruby-red;
 $success-color              : #62c462;
 $warning-color              : #f89406;
 $danger-color               : #ee5f5b;
@@ -127,7 +129,7 @@ $link-color                 : $info-color;
 $link-color-hover           : mix(#000, $link-color, 25%);
 $link-color-visited         : mix(#fff, $link-color, 25%);
 $masthead-link-color        : $primary-color-masthead;
-$masthead-link-color-hover  : $link-color;
+$masthead-link-color-hover  : $ruby-red;
 
 /*mix(#000, $primary-color-masthead, 25%); */
 
