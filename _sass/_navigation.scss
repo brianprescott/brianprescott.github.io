@@ -177,12 +177,11 @@
   min-width: 250px;
   background: $masthead-background-color;
 
-  /* $masthead-link-color */
   a {
     display: block;
     margin: 0 1rem;
     padding: 0.5rem 0;
-    color: $oxford-blue;
+    color: $masthead-link-color;
     text-decoration: none;
 
     &:hover {
