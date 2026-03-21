@@ -58,6 +58,8 @@ $okabe-ito-blue             : #0072B2;
 $ruby-red                   : #9B111E;
 $viridian                   : #40826D;
 $oxford-blue                : #002147;
+$persian-blue		    : #1B5A8A;
+$pewter			    : #4A4E58;
 
 /* ORIGINAL SETTING
 $body-color                 : #fff;
@@ -69,11 +71,11 @@ $code-background-color      : #fafafa;
 */
 
 /*This block contains things I changed.*/
-$masthead-background-color  : $oxford-blue;
-$body-color                 : #fff;
+$masthead-background-color  : $fff;
+$body-color                 : $pewter;
 $background-color           : #fff;
 $text-color                 : $dark-gray;
-$border-color               : $lighter-gray;
+$border-color               : #e8e8e8;
 $code-background-color-dark : $light-gray;
 $code-background-color      : #fafafa;
 
@@ -91,11 +93,11 @@ $footer-color-border        : $border-color;
 /* Original primary color: #7a8288; mix(#fff, #000, 20%); */
 
 $primary-color-masthead     : #fff;
-$primary-color              : $ruby-red;
+$primary-color              : $prussian-blue;
 $success-color              : #62c462;
 $warning-color              : #f89406;
 $danger-color               : #ee5f5b;
-$info-color		             : $okabe-ito-blue;
+$info-color		    : $prussian-blue;
 /* This controls URL colors. Below is original info-color */
 /* $info-color                 : #52adc8; 
    $info-color		             : $okabe-ito-blue;
@@ -129,7 +131,7 @@ $link-color                 : $info-color;
 $link-color-hover           : mix(#000, $link-color, 25%);
 $link-color-visited         : mix(#fff, $link-color, 25%);
 $masthead-link-color        : $primary-color-masthead;
-$masthead-link-color-hover  : $ruby-red;
+$masthead-link-color-hover  : $prussian-blue;
 
 /*mix(#000, $primary-color-masthead, 25%); */
 

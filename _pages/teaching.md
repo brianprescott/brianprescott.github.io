@@ -4,6 +4,9 @@ permalink: /teaching/
 ---
 
 ## Washington University in St. Louis
-- TA, Econ 404: *Behavioral Economics and Experimental Economics*, FL 2024.
-- TA, Econ 4011: *Intermediate Microeconomic Theory*, SP 2024.
-- TA, Econ 5011: *Macroeconomics* (Masters), FL 2023.
+- TA, *Introduction to Econometrics*, Spring 2026.
+- TA, *Advanced Microeconometrics* (PhD), Fall 2025.
+- TA, *Economics of Education*, Spring 2025 
+- TA, *Behavioral Economics and Experimental Economics*, Fall 2024.
+- TA, *Intermediate Microeconomic Theory*, Spring 2024.
+- TA, *Macroeconomics* (Masters), Fall 2023.

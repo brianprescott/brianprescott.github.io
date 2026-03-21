@@ -11,9 +11,8 @@ redirect_from:
 <img align="left" src="{{ site.url }}{{ site.baseurl }}/images/wustl-profile-picture.png" alt="" height= "75" width="235" style="float:left;"/>
 -->
 
-I am a Ph.D. student in the Department of Economics at Washington University in St. Louis. Prior to my graduate studies, I worked as an Economic Research Analyst at the Federal Reserve Bank of Atlanta.
-
-My primary research interests are in econometrics and causal inference. I also have secondary interests in applied microeconomics.
+I am a Ph.D. student in the Department of Economics at Washington University in St. Louis. My primary research interests are in econometric theory and
+applied econometrics, particularly causal inference. I also have secondary interests in labor economics.
 
 ## Contact
 Email: [b.prescott@wustl.edu](mailto::b.prescott@wustl.edu)
